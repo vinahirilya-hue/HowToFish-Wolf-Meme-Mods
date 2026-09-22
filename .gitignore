@@ -1,0 +1,14 @@
+bin/
+obj/
+artifacts/
+.vs/
+.idea/
+*.user
+*.suo
+*.pdb
+Directory.Build.user.props
+
+# Copyrighted runtime assets are intentionally never tracked.
+howl_bgm.ogg
+howl_flash.png
+

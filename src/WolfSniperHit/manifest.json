@@ -1,0 +1,9 @@
+{
+  "name": "WolfSniperHit",
+  "version_number": "0.1.1",
+  "website_url": "",
+  "description": "本地玩家用大狙命中生物时闪回狼人图片并从头播放 Animals；连续命中会以 1.1 倍累计加速，最高 2 倍速。NPC 攻击不会触发。",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}

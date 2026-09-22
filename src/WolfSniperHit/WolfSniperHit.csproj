@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>WolfSniperHit</AssemblyName>
+    <RootNamespace>WolfSniperHit</RootNamespace>
+    <Version>0.1.1</Version>
+  </PropertyGroup>
+</Project>
+

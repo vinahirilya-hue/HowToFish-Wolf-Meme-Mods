@@ -1,0 +1,9 @@
+{
+  "name": "AlbatrossWolfHit",
+  "version_number": "0.1.0",
+  "website_url": "",
+  "description": "仅当信天翁的远程投射物命中本地玩家时闪回狼人图片并播放 Animals；玩家开枪不会触发。",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
